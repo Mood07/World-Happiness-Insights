@@ -189,5 +189,11 @@ It provides a strong foundation for understanding societal well-being trends and
 
 ---
 
-👨‍💻 **Created by:** [Berke Arda Türk](https://berke-turk.web.app)  
-📂 **GitHub:** [https://github.com/Mood07](https://github.com/Mood07)
+## 👨‍💻 Author
+
+**Berke Arda Türk**  
+_Data Science & AI Enthusiast | Computer Science (B.ASc)_
+
+🌐 [Portfolio Website](https://berke-turk.web.app)  
+💼 [LinkedIn](https://www.linkedin.com/in/berke-arda-turk/)  
+🐙 [GitHub](https://github.com/Mood07)
