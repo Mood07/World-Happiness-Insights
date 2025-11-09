@@ -192,8 +192,6 @@ It provides a strong foundation for understanding societal well-being trends and
 ## 👨‍💻 Author
 
 **Berke Arda Türk**  
-_Data Science & AI Enthusiast | Computer Science (B.ASc)_
+Data Science & AI Enthusiast | Computer Science (B.ASc)  
+[🌐 Portfolio Website](https://berke-turk.web.app/) • [💼 LinkedIn](https://www.linkedin.com/in/berke-arda-turk/) • [🐙 GitHub](https://github.com/Mood07)
 
-🌐 [Portfolio Website](https://berke-turk.web.app)  
-💼 [LinkedIn](https://www.linkedin.com/in/berke-arda-turk/)  
-🐙 [GitHub](https://github.com/Mood07)
